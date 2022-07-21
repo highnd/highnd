@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**highnd/highnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Mahdi fallah 
+software engineer
+website devloper especially  front-end 
 
-Here are some ideas to get you started:
+ skills : { 
+ 
+  language: javascript,
+  
+  Front-End : "html , css , bootstrap , tailwind , react , redux , redux-thunk , context , rest api , ui design libraryes",
+  
+  Back-End : "node , express , mongoose , mongo db , sql server ",
+  
+  engineering skills : "Database implementation , System analysis and design , data structure"
+  
+ }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
