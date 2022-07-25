@@ -6,7 +6,7 @@ website devloper especially  front-end
 
  skills : { 
  
-  language: javascript , typescript,
+  language: javascript,
   
   Front-End : "html , css , bootstrap , tailwind , syncfusion , react , redux , redux-thunk , context , rest api , ui design libraryes , next",
   
