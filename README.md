@@ -8,7 +8,7 @@ website devloper especially  front-end
  
   language: javascript,
   
-  Front-End : "html , css , bootstrap , tailwind , syncfusion , react , redux , redux-thunk , context , rest api , ui design libraryes , next",
+  Front-End : "html , css , bootstrap , tailwind , syncfusion , react , redux , redux-thunk , context , rest api , ui design libraries , next",
   
   Back-End : "node , express , mongoose , mongo db , sql server ",
   
